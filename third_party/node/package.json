@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "dpapad@chromium.org",
   "dependencies": {
-    "@mediapipe/tasks-vision": "0.10.9",
+    "@mediapipe/tasks-vision": "0.10.16",
     "@rollup/wasm-node": "4.21.0",
     "@stylistic/eslint-plugin": "2.8.0",
     "@types/chai": "4.3.16",

@@ -7,7 +7,7 @@
     "test": "ts-node $(npm bin)/jasmine *_test.ts"
   },
   "dependencies": {
-    "@octokit/rest": "^18.0.6",
+    "@octokit/rest": "^21.1.1",
     "simple-git": "^2.21.0"
   },
   "devDependencies": {
